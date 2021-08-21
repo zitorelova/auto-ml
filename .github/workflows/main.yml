@@ -1,4 +1,4 @@
-name: Automated Machine Learning
+name: unit tests
 
 on:
   push:
